@@ -1,0 +1,32 @@
+.container {
+    padding: 5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__heading {
+    font-size: 3em;
+    color: silver;  
+}
+
+.container__main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:1em;
+}
+
+.container__button {
+    padding: 1em;
+    font-size: 1em;
+    border: 0.1em solid lightblue;
+}
+
+.container__text {
+    padding: 1em;
+    width: 4em;
+    text-align: center;
+    font-size: 1em;
+}
