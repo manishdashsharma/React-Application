@@ -1,0 +1,22 @@
+.contaner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 2em;
+    border: 0.1em solid red;
+}
+
+h1 {
+    font-size: 1em;
+}
+
+.profile-picture {
+    height: 5em;
+    width: 5em;
+}
