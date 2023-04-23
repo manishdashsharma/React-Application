@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(201, 201, 201);
+}
+.container-box {
+    align-items: center;
+    border: 2px solid red;
+    height: 30em;
+    width: 30em;
+    margin: 7em;
+    line-height: 4em;
+}
+
+.container-dropdown {
+    width: 15em;
+    padding: 1em;
+    border: 1px solid red;
+    border-radius: 8px;
+    font-size: 1em;
+    font-weight: lighter;
+    color: rgb(43, 185, 185);
+}
+
+h2 {
+    font-size: 1.45em;
+    color: rgb(188, 51, 223);
+}
